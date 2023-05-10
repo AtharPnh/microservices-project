@@ -1,0 +1,11 @@
+D:\Programming\Example Projects\spring boot\Spring Boot Microservices Project Example\microservice-new\order-service\src\main\java\com\athar\orderservice\event\OrderPlacedEvent.java
+D:\Programming\Example Projects\spring boot\Spring Boot Microservices Project Example\microservice-new\order-service\src\main\java\com\athar\orderservice\repository\OrderRepository.java
+D:\Programming\Example Projects\spring boot\Spring Boot Microservices Project Example\microservice-new\order-service\src\main\java\com\athar\orderservice\dto\OrderListItemsDto.java
+D:\Programming\Example Projects\spring boot\Spring Boot Microservices Project Example\microservice-new\order-service\src\main\java\com\athar\orderservice\model\OrderLineItems.java
+D:\Programming\Example Projects\spring boot\Spring Boot Microservices Project Example\microservice-new\order-service\src\main\java\com\athar\orderservice\controller\OrderController.java
+D:\Programming\Example Projects\spring boot\Spring Boot Microservices Project Example\microservice-new\order-service\src\main\java\com\athar\orderservice\dto\InventoryResponse.java
+D:\Programming\Example Projects\spring boot\Spring Boot Microservices Project Example\microservice-new\order-service\src\main\java\com\athar\orderservice\dto\OrderRequest.java
+D:\Programming\Example Projects\spring boot\Spring Boot Microservices Project Example\microservice-new\order-service\src\main\java\com\athar\orderservice\config\WebClientConfig.java
+D:\Programming\Example Projects\spring boot\Spring Boot Microservices Project Example\microservice-new\order-service\src\main\java\com\athar\orderservice\model\Order.java
+D:\Programming\Example Projects\spring boot\Spring Boot Microservices Project Example\microservice-new\order-service\src\main\java\com\athar\orderservice\OrderServiceApplication.java
+D:\Programming\Example Projects\spring boot\Spring Boot Microservices Project Example\microservice-new\order-service\src\main\java\com\athar\orderservice\service\OrderService.java

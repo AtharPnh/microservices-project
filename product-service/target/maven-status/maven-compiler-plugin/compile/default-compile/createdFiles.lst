@@ -1,0 +1,10 @@
+com\athar\productservice\service\ProductService.class
+com\athar\productservice\dto\ProductResponse$ProductResponseBuilder.class
+com\athar\productservice\dto\ProductRequest.class
+com\athar\productservice\dto\ProductRequest$ProductRequestBuilder.class
+com\athar\productservice\dto\ProductResponse.class
+com\athar\productservice\repository\ProductRepository.class
+com\athar\productservice\model\Product$ProductBuilder.class
+com\athar\productservice\model\Product.class
+com\athar\productservice\ProductServiceApplication.class
+com\athar\productservice\controller\ProductController.class
